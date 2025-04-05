@@ -1,0 +1,11 @@
+﻿  Pong.cpp
+C:\Users\Usuario\OneDrive\Documentos\Projetos\Pong\PongGame\Dependencies\SFML\include\SFML\System\Exception.hpp(41,47): warning C4275: não dll-interface class 'std::runtime_error' usado como base para dll-interface class 'sf::Exception'
+  (compilando o arquivo fonte 'Pong.cpp')
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\stdexcept(100,19):
+  consulte a declaração de 'std::runtime_error'
+  C:\Users\Usuario\OneDrive\Documentos\Projetos\Pong\PongGame\Dependencies\SFML\include\SFML\System\Exception.hpp(41,23):
+  consulte a declaração de 'sf::Exception'
+  
+  PongApp.cpp
+  Gerando Código...
+  PongApp.vcxproj -> C:\Users\Usuario\OneDrive\Documentos\Projetos\Pong\PongGame\x64\Debug\PongApp.exe
